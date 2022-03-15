@@ -26,6 +26,11 @@
 	</wordpair>
 	
 	<wordpair>
+		<roWord>unchi</roWord>
+		<translation>uncle</translation>
+	</wordpair>
+	
+	<wordpair>
 		<roWord>bunic</roWord>
 		<translation>grandpa</translation>
 	</wordpair>
@@ -33,11 +38,6 @@
 	<wordpair>
 		<roWord>bunica</roWord>
 		<translation>grandma</translation>
-	</wordpair>
-	
-	<wordpair>
-		<roWord>unchi</roWord>
-		<translation>uncle</translation>
 	</wordpair>
 	
 	<wordpair>
