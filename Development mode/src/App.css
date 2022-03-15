@@ -1,0 +1,38 @@
+.grid-container {
+  display: inline-grid;
+  grid-template-columns: 553px 553px;
+  background-color: #2196F3;
+  padding: 5px;
+}
+
+.head-grid {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 2px solid rgba(0, 0, 0, 0.8);
+  padding: 2px 0;
+  font-size: 18px;
+  text-align: center;
+  line-height: 45px;
+  height: 55px;
+  vertical-align: middle;
+}
+
+.word-item {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 2px solid rgba(0, 0, 0, 0.8);
+  padding: 2px 0;
+  font-size: 18px;
+  text-align: left;
+  text-indent:1rem;
+}     
+
+#wordList {
+  display: inline-grid;
+  grid-template-columns: 1106px;
+  background-color: #2196F3;
+  padding: 5px;
+}
+
+section {
+  display: inline-grid;
+  grid-template-columns: 553px 553px;
+}
