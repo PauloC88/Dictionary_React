@@ -5,7 +5,7 @@ import {updStateWarning} from './Warning';
 import {updStateSearchRes} from './SearchResult';
 
 const wordsAndTranslations = restoreArray();
-setTimeout(function() {updStateWordsRoEn({wordsAndTranslations});}, 30);
+setTimeout(function() {updStateWordsRoEn({wordsAndTranslations});}, 100);
 
 function restoreArray() {
 	const array = [];
