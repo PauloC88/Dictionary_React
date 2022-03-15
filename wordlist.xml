@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+	<wordpair>
+		<roWord>tata</roWord>
+		<translation>father</translation>
+	</wordpair>
+
+	<wordpair>
+		<roWord>mama</roWord>
+		<translation>mother</translation>
+	</wordpair>
+
+	<wordpair>
+		<roWord>fiu</roWord>
+		<translation>son</translation>
+	</wordpair>
+
+	<wordpair>
+		<roWord>fiica</roWord>
+		<translation>daughter</translation>
+	</wordpair>
+	
+	<wordpair>
+		<roWord>matusa</roWord>
+		<translation>aunt</translation>
+	</wordpair>
+	
+	<wordpair>
+		<roWord>unchi</roWord>
+		<translation>uncle</translation>
+	</wordpair>
+	
+	<wordpair>
+		<roWord>var</roWord>
+		<translation>cousin</translation>
+	</wordpair>
+</dictionary>
